@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccf9826adb1329d466858c76144ff933",
+    "revision": "b405b4337fb3c04eeba52ac5ddf558be",
     "url": "/ideaworks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ideaworks/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "aa2ae7a2d41cbb688f08",
+    "revision": "a778256ff5c4593de5bd",
     "url": "/ideaworks/static/css/main.2111bbca.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ideaworks/static/js/2.90574b02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa2ae7a2d41cbb688f08",
-    "url": "/ideaworks/static/js/main.4a9d20b2.chunk.js"
+    "revision": "a778256ff5c4593de5bd",
+    "url": "/ideaworks/static/js/main.6985e7c0.chunk.js"
   },
   {
     "revision": "9e4a7f64b5d6bbf60cdd",
