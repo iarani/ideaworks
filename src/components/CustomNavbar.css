@@ -1,0 +1,33 @@
+navbar, .navbar>.container, .navbar>.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar {
+    position: relative;
+    padding: .5rem 1rem;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+nav {
+    display: block;
+}
+
+.navbar-toggler {
+    padding: 0 0;
+    font-size: 1.50rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 0px solid #007bff;
+    border-radius: .25rem;
+}
+
+.navbar-collapse {
+    text-align: right;
+}
