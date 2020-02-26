@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17b2ee392cec05bbbcded4162462d070",
+    "revision": "f55001a86c4e09d1ff827c1aeaadbb44",
     "url": "/ideaworks/index.html"
   },
   {
-    "revision": "4b9cbdb9a4365906ba2d",
+    "revision": "e886486951cf2086656d",
     "url": "/ideaworks/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "2ccc312d8fa776952fc3",
-    "url": "/ideaworks/static/css/main.2111bbca.chunk.css"
+    "revision": "5b646f482c3f3d493b2c",
+    "url": "/ideaworks/static/css/main.4aeba821.chunk.css"
   },
   {
-    "revision": "4b9cbdb9a4365906ba2d",
-    "url": "/ideaworks/static/js/2.90574b02.chunk.js"
+    "revision": "e886486951cf2086656d",
+    "url": "/ideaworks/static/js/2.d0f61412.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/ideaworks/static/js/2.90574b02.chunk.js.LICENSE.txt"
+    "url": "/ideaworks/static/js/2.d0f61412.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ccc312d8fa776952fc3",
-    "url": "/ideaworks/static/js/main.b0b66b9b.chunk.js"
+    "revision": "5b646f482c3f3d493b2c",
+    "url": "/ideaworks/static/js/main.468598b5.chunk.js"
   },
   {
     "revision": "9e4a7f64b5d6bbf60cdd",
@@ -142,5 +142,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c73aeca6aa9b935efdc6191c483e2fb",
     "url": "/ideaworks/static/media/indiafrica_cover2.9c73aeca.jpg"
+  },
+  {
+    "revision": "6e2136b027168c5068dbc74d642da97d",
+    "url": "/ideaworks/static/media/specialevents-sagia-1.6e2136b0.jpg"
   }
 ]);

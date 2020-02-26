@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ideaworks/static/css/main.2111bbca.chunk.css",
-    "main.js": "/ideaworks/static/js/main.b0b66b9b.chunk.js",
-    "main.js.map": "/ideaworks/static/js/main.b0b66b9b.chunk.js.map",
+    "main.css": "/ideaworks/static/css/main.4aeba821.chunk.css",
+    "main.js": "/ideaworks/static/js/main.468598b5.chunk.js",
+    "main.js.map": "/ideaworks/static/js/main.468598b5.chunk.js.map",
     "runtime-main.js": "/ideaworks/static/js/runtime-main.b9052afc.js",
     "runtime-main.js.map": "/ideaworks/static/js/runtime-main.b9052afc.js.map",
     "static/css/2.47e06e2e.chunk.css": "/ideaworks/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.90574b02.chunk.js": "/ideaworks/static/js/2.90574b02.chunk.js",
-    "static/js/2.90574b02.chunk.js.map": "/ideaworks/static/js/2.90574b02.chunk.js.map",
+    "static/js/2.d0f61412.chunk.js": "/ideaworks/static/js/2.d0f61412.chunk.js",
+    "static/js/2.d0f61412.chunk.js.map": "/ideaworks/static/js/2.d0f61412.chunk.js.map",
     "index.html": "/ideaworks/index.html",
-    "precache-manifest.5f544e06869d5c82aced0e4655b825cc.js": "/ideaworks/precache-manifest.5f544e06869d5c82aced0e4655b825cc.js",
+    "precache-manifest.5baf3c8c4a7c84bbf97d5ccd866d5f5c.js": "/ideaworks/precache-manifest.5baf3c8c4a7c84bbf97d5ccd866d5f5c.js",
     "service-worker.js": "/ideaworks/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/ideaworks/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.2111bbca.chunk.css.map": "/ideaworks/static/css/main.2111bbca.chunk.css.map",
-    "static/js/2.90574b02.chunk.js.LICENSE.txt": "/ideaworks/static/js/2.90574b02.chunk.js.LICENSE.txt",
+    "static/css/main.4aeba821.chunk.css.map": "/ideaworks/static/css/main.4aeba821.chunk.css.map",
+    "static/js/2.d0f61412.chunk.js.LICENSE.txt": "/ideaworks/static/js/2.d0f61412.chunk.js.LICENSE.txt",
     "static/media/Indiafrica-01.jpg": "/ideaworks/static/media/Indiafrica-01.23516a46.jpg",
     "static/media/Indiafrica-02.jpg": "/ideaworks/static/media/Indiafrica-02.ed5129e5.jpg",
     "static/media/Indiafrica-03.jpg": "/ideaworks/static/media/Indiafrica-03.0eb8a631.jpg",
@@ -42,13 +42,14 @@
     "static/media/Indiafrica-26.jpg": "/ideaworks/static/media/Indiafrica-26.54a6a7b4.jpg",
     "static/media/Indiafrica-27.jpg": "/ideaworks/static/media/Indiafrica-27.3e26e2a6.jpg",
     "static/media/davosvid.webm": "/ideaworks/static/media/davosvid.137de67e.webm",
-    "static/media/indiafrica_cover2.jpg": "/ideaworks/static/media/indiafrica_cover2.9c73aeca.jpg"
+    "static/media/indiafrica_cover2.jpg": "/ideaworks/static/media/indiafrica_cover2.9c73aeca.jpg",
+    "static/media/specialevents-sagia-1.jpg": "/ideaworks/static/media/specialevents-sagia-1.6e2136b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b9052afc.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.90574b02.chunk.js",
-    "static/css/main.2111bbca.chunk.css",
-    "static/js/main.b0b66b9b.chunk.js"
+    "static/js/2.d0f61412.chunk.js",
+    "static/css/main.4aeba821.chunk.css",
+    "static/js/main.468598b5.chunk.js"
   ]
 }
